@@ -1,0 +1,360 @@
+Using pre-set license
+Built from '6000.1/staging' branch; Version is '6000.1.2f1 (8e2281df4c52) revision 9314945'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 16106 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+Date: 2025-05-17T08:12:53Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.1.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/dhanu/UrbanVelocity
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+61448
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/dhanu/UrbanVelocity
+C:/Users/dhanu/UrbanVelocity
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [36432]  Target information:
+
+Player connection [36432]  * "[IP] 192.168.252.208 [Port] 0 [Flags] 2 [Guid] 2869413969 [EditorId] 2869413969 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-17QBUGRS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [36432]  * "[IP] 192.168.0.134 [Port] 0 [Flags] 2 [Guid] 2869413969 [EditorId] 2869413969 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-17QBUGRS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [36432] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [36432] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 1.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.1.2f1 (8e2281df4c52)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.1.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/dhanu/UrbanVelocity/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25a0)
+    Vendor:          NVIDIA
+    VRAM:            3962 MB
+    App VRAM Budget: 3367 MB
+    Driver:          32.0.15.6607
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.1.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.1.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.1.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56764
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001580 seconds.
+- Loaded All Assemblies, in  0.379 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.341 seconds
+Domain Reload Profiling: 717ms
+	BeginReloadAssembly (123ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (159ms)
+		LoadAssemblies (120ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (156ms)
+			TypeCache.Refresh (154ms)
+				TypeCache.ScanAssembly (141ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (341ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (286ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (47ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (61ms)
+			ProcessInitializeOnLoadAttributes (127ms)
+			ProcessInitializeOnLoadMethodAttributes (47ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.825 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-UrbanVelocity
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.823 seconds
+Domain Reload Profiling: 1643ms
+	BeginReloadAssembly (177ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (31ms)
+	RebuildCommonClasses (45ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (543ms)
+		LoadAssemblies (380ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (258ms)
+			TypeCache.Refresh (188ms)
+				TypeCache.ScanAssembly (170ms)
+			BuildScriptInfoCaches (55ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (823ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (619ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (135ms)
+			ProcessInitializeOnLoadAttributes (379ms)
+			ProcessInitializeOnLoadMethodAttributes (94ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 1.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 238 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6740 unused Assets / (5.0 MB). Loaded Objects now: 7471.
+Memory consumption went from 177.4 MB to 172.4 MB.
+Total: 12.217200 ms (FindLiveObjects: 1.431000 ms CreateObjectMapping: 0.704500 ms MarkObjects: 5.799600 ms  DeleteObjects: 4.280900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 107271.731458 seconds.
+  path: Assets/Settings/DefaultVolumeProfile.asset
+  artifactKey: Guid(ab09877e2e707104187f6f83e2f62510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/DefaultVolumeProfile.asset using Guid(ab09877e2e707104187f6f83e2f62510) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '10528149371aefc32227726816d72a59') in 0.0231029 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Settings/Mobile_Renderer.asset
+  artifactKey: Guid(65bc7dbf4170f435aa868c779acfb082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/Mobile_Renderer.asset using Guid(65bc7dbf4170f435aa868c779acfb082) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd246be45d650b496251a8b2536b3002f') in 0.002208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 222.229115 seconds.
+  path: Assets/Parkour System/Model/Animations/Braced Hang Climb.fbx
+  artifactKey: Guid(4aa0f404cfef9ef4695a2b437520c7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/Braced Hang Climb.fbx using Guid(4aa0f404cfef9ef4695a2b437520c7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '49344359b554ae17b40e64c91ef9d524') in 0.0291639 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Parkour System/Model/Animations/FreeHang Left Shimmy.fbx
+  artifactKey: Guid(93545e465a3906943aa486274153acb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/FreeHang Left Shimmy.fbx using Guid(93545e465a3906943aa486274153acb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '13373b828e3c2a7f6d8d92808d2f19ab') in 0.004303 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 140
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Parkour System/Model/Animations/Fall Idle.fbx
+  artifactKey: Guid(cf63be7fb3c65e648af4d596b83308ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/Fall Idle.fbx using Guid(cf63be7fb3c65e648af4d596b83308ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '08bf04c98f8f94d708bd350d930cd3ea') in 0.0044012 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Parkour System/Model/Animations/Hanging Idle.fbx
+  artifactKey: Guid(12465e2e044fa8646b3119981d45a0de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/Hanging Idle.fbx using Guid(12465e2e044fa8646b3119981d45a0de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cfd6624ab0ee06fb3844f0287b02310b') in 0.003745 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Parkour System/Model/Animations/VaultFence.fbx
+  artifactKey: Guid(0c012699e8b1f064ab54e8d0c62e4436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/VaultFence.fbx using Guid(0c012699e8b1f064ab54e8d0c62e4436) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '126f7ee2033776aea0a9e31ec968b9e9') in 0.0037045 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Parkour System/Model/Animations/Idle To Braced Hang.fbx
+  artifactKey: Guid(a27a5c92e4aff5f4c986981c22e2e9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/Idle To Braced Hang.fbx using Guid(a27a5c92e4aff5f4c986981c22e2e9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6da1c4bde71a3b6d87a7f2ee5b8ede6d') in 0.0039775 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Parkour System/Model/Animations/Idle To Sprint.fbx
+  artifactKey: Guid(ac61465a13d9cde4a8ae02f87aba2407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/Idle To Sprint.fbx using Guid(ac61465a13d9cde4a8ae02f87aba2407) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '49232f6165716c1e1fd7d9779dd81d6f') in 0.0041073 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Parkour System/Model/Animations/Freehang Idle.fbx
+  artifactKey: Guid(3b1396010ac7be84bb5cd2b76066f9bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/Freehang Idle.fbx using Guid(3b1396010ac7be84bb5cd2b76066f9bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '391ff800d62323bc6adf02764e06f1ed') in 0.0038797 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Parkour System/Model/Animations/Braced Hang Right Shimmy.fbx
+  artifactKey: Guid(6409de9932b85574889c1d8bd705f759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/Braced Hang Right Shimmy.fbx using Guid(6409de9932b85574889c1d8bd705f759) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e203c85a265a40a5a93b7960f0afaf3a') in 0.0039484 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 140
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Parkour System/Model/Animations/Jump.fbx
+  artifactKey: Guid(9c3b15d2f0853554aa492a3fd66f9523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/Jump.fbx using Guid(9c3b15d2f0853554aa492a3fd66f9523) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1ef0eba6f7f7469ab5561dbfb1f1c0ad') in 0.0056382 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Parkour System/Model/Animations/Jog Forward.fbx
+  artifactKey: Guid(c0f7043c008a6244e9085879a036d2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/Jog Forward.fbx using Guid(c0f7043c008a6244e9085879a036d2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4ccfc408e18e6e6540fad7ededb19764') in 0.0035527 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Parkour System/Model/Animations/Free Hang To Braced.fbx
+  artifactKey: Guid(8d705e076d9542d4d8cdb013e5edf028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/Free Hang To Braced.fbx using Guid(8d705e076d9542d4d8cdb013e5edf028) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e8b1ef44a6d2e6852b282d6498910c42') in 0.003551 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Parkour System/Model/Animations/Land To Run Forward.fbx
+  artifactKey: Guid(5ee4c7b020b1e2442af166cbdb589b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/Land To Run Forward.fbx using Guid(5ee4c7b020b1e2442af166cbdb589b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '52318e33bacbd0bcdb5fd69a9d51d0a0') in 0.004531 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Parkour System/Model/Animations/Run.fbx
+  artifactKey: Guid(f123b4e115ab0304180e14ea2d4bdae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/Run.fbx using Guid(f123b4e115ab0304180e14ea2d4bdae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '88beaa4dbf1dd096bae4ad7b83e7fd21') in 0.0035616 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Parkour System/Model/Animations/Drop To Freehang.fbx
+  artifactKey: Guid(c492c9dfbd9855b4db2a6779aa2c9a69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/Drop To Freehang.fbx using Guid(c492c9dfbd9855b4db2a6779aa2c9a69) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5710f8f413e14ee64db6fc3a9a5dae90') in 0.0044889 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 140
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Parkour System/Model/Animations/Jumping Crouch.fbx
+  artifactKey: Guid(ccdda45c33434f041afca9d36541c8a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/Jumping Crouch.fbx using Guid(ccdda45c33434f041afca9d36541c8a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '61838d286311db557f2d3e76e7bb0dc4') in 0.0037063 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Parkour System/Model/Animations/Run To Stop.fbx
+  artifactKey: Guid(8b7641127beae2f4caa7489af19d781a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parkour System/Model/Animations/Run To Stop.fbx using Guid(8b7641127beae2f4caa7489af19d781a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e4a1afd99fa6bac4f1cfe6e82878b901') in 0.0036881 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
